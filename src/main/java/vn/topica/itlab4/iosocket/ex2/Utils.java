@@ -344,9 +344,9 @@ public class Utils {
             lengthOfMessage = wholeInfoPack.length();
             listTLV = new ArrayList<TLV>();
             listTLV.add(new TLV((short) 1, phoneNumber));
-            listTLV.add(new TLV((short) 2, name));
             listTLV.add(new TLV((short) 3, "OK"));
-            return new InfoPack(lengthOfMessage, (short) 2, listTLV);
+            listTLV.add(new TLV((short) 2, name));
+            return new InfoPack(lengthOfMessage, (short) 3, listTLV);
         }
     }
 
