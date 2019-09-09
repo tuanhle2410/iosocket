@@ -16,8 +16,8 @@ public class IOExecute {
     /**
      * input and output file path
      */
-    private static final String filepathIN = ".\\resource\\input1.txt";
-    private static final String filepathOUT = ".\\resource\\output1.txt";
+    private static final String filepathIN = ".\\src\\main\\resources\\input1.txt";
+    private static final String filepathOUT = ".\\src\\main\\resources\\output1.txt";
 
     public static void main(String[] args) throws IOException, ParseException {
         /**
