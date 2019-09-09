@@ -1,6 +1,0 @@
-AUTHEN PhoneNumber 0903229790 Key topica
-AUTHEN PhoneNumber 0985010112 Key atopica
-AUTHEN PhoneNumber 0985010112 Key topica
-INSERT PhoneNumber 0985010112 Name tuanh
-COMMIT PhoneNumber 0985010112
-SELECT PhoneNumber 0985010112 Name tuanh
