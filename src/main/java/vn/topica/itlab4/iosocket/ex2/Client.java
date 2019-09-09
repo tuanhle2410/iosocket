@@ -12,8 +12,8 @@ import java.util.List;
  */
 public class Client {
     public static Status status;
-    private static final String filepathIN = ".\\resource\\request.txt";
-    private static final String filepathOUT = ".\\resource\\response.txt";
+    private static final String filepathIN = ".\\src\\main\\resources\\request.txt";
+    private static final String filepathOUT = ".\\src\\main\\resources\\response.txt";
     public static boolean run = true;
 
     /**
