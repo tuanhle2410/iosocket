@@ -1,6 +1,0 @@
-ERROR ResultCode NA 
-AUTHEN PhoneNumber 0985010112 ResultCode NOK 
-AUTHEN PhoneNumber 0985010112 ResultCode OK 
-INSERT PhoneNumber 0985010112 ResultCode OK 
-COMMIT PhoneNumber 0985010112 ResultCode OK 
-SELECT PhoneNumber 0985010112 ResultCode OK Name tuanh 
